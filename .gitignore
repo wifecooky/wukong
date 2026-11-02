@@ -1,0 +1,6 @@
+# preview renders: large, and v6 carries a cloned voice
+*.mp4
+# working backups
+src.bak-0/
+*.bak-0.html
+.DS_Store
